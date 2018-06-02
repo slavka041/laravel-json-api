@@ -1,9 +1,11 @@
 {
-  "name": "laravel/laravel",
-  "description": "The Laravel Framework.",
+  "name": "slava/laravel-json-api",
+  "description": "Laravel with packages, without trash for quick start json-api development",
   "keywords": [
     "framework",
-    "laravel"
+    "laravel",
+    "api",
+    "quick-start"
   ],
   "license": "MIT",
   "type": "project",
