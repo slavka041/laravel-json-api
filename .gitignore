@@ -5,6 +5,6 @@
 /storage/*.key
 *.log
 .env
-.idea
+/.idea
 .phpstorm.meta.php
 _ide_helper*
