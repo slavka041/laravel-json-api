@@ -18,7 +18,7 @@
         }
 
         body {
-            background: url('/storage/images/404.jpg') center no-repeat #dcecf9
+            background: url('/404.jpg') center no-repeat #dcecf9
         }
 
         .content {
