@@ -24,7 +24,8 @@
     "fideloper/proxy": "^4.0",
     "laravel/framework": "5.6.*",
     "laravel/tinker": "^1.0",
-    "spatie/laravel-query-builder": "^1.9"
+    "spatie/laravel-query-builder": "^1.9",
+    "tymon/jwt-auth": "^1.0.0-rc.2"
   },
   "require-dev": {
     "barryvdh/laravel-ide-helper": "^2.4",
